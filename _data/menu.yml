@@ -27,7 +27,7 @@ entries:
     url: https://github.com/MichelKrispin/PyApprentice
     entries:
       - title: Interactive notebooks for solving tasks with Python.
-      - title: Notebooks with an individual scope for each cell and the ability to check for anything inside of that scope such that tasks can be checked for fulfillmentz.
+      - title: Notebooks with an individual scope for each cell and the ability to check for anything inside of that scope such that tasks can be checked for fulfillment.
 
   - title: Wepps
     url: https://github.com/Parallel-in-Time/wepps
