@@ -68,7 +68,7 @@ entries:
     url: https://github.com/MichelKrispin/Chess-Web
     entries:
       - title: A chess frontend with a <a href='https://flask.palletsprojects.com/en/3.0.x/' target="_blank">Flask</a> backend and <a href='https://react.dev/' target="_blank">React</a> frontend.
-      - title: Based upon an custom incomplete <a href='https://github.com/MichelKrispin/ChessOnline' target="_blank">chess backend</a> with a custom written test framework.
+      - title: Based upon a custom incomplete <a href='https://github.com/MichelKrispin/ChessOnline' target="_blank">chess backend</a> with a custom written test framework.
 
   - title: Space Invaders 8080 emulator
     url: https://github.com/MichelKrispin/Java-Space-Invaders-Emulator
@@ -89,6 +89,7 @@ entries:
     url: https://github.com/MichelKrispin/cuda-rf-simulated-annealing
     entries:
       - title: Quasi and rejection-free simulated annealing implementation.
+      - title: CUDA implementation based upon the <a href='https://github.com/MichelKrispin/rf-simulated-annealing' target="_blank">python implementation</a>.
       - title: Basis for further optimizations.
 
   - title: Chess
