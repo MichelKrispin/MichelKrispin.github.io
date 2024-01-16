@@ -1,0 +1,98 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Biometric password
+    url: https://github.com/MichelKrispin/BiometricPassword
+    entries:
+      - title: Detect who typed a password by measuring the time between keystrokes.
+      - title: Uses <a href='https://www.tensorflow.org/js' target="_blank">Tensorflow JS</a>.
+
+  - title: Blockchain coin
+    url: https://github.com/MichelKrispin/myvo-coin
+    entries:
+      - title: My very own blockchain coin.
+      - title: Implementation of encryption/decrption and ownership proof similar to Bitcoin.
+      - title: Written in Rust.
+
+  - title: Flomathica
+    url: https://github.com/MichelKrispin/Flomathica
+    entries:
+      - title: A custom interpreter language.
+      - title: Written in C++.
+      - title: Uses <a href='https://releases.llvm.org/download.html#12.0.0' target="_blank">LLVM</a> as the backend compiler.
+      - title: Supports function definition and loading them from a file.
+
+  - title: PyApprentrice
+    url: https://github.com/MichelKrispin/PyApprentice
+    entries:
+      - title: Interactive notebooks for solving tasks with Python.
+      - title: Notebooks with an individual scope for each cell and the ability to check for anything inside of that scope such that tasks can be checked for fulfillmentz.
+
+  - title: Wepps
+    url: https://github.com/Parallel-in-Time/wepps
+    entries:
+      - title: A web app framework to connect python projects to a simple but interactive frontend.
+      - title: Its main purpose is to easily create interactive websites for math based libraries.
+      - title: Accessible from <a href='https://pypi.org/project/wepps/' target="_blank">pypi</a>.
+
+  - title: Physics-Informed Neural Networks
+    url: https://github.com/MichelKrispin/Pinn
+    entries:
+      - title: Physics-Informed Neural Networks for reconstructing flow velocity fields.
+      - title: Guard a neural networks learning process by providing it with physical knowledge about the data.
+      - title: Uses <a href='https://www.tensorflow.org/' target="_blank">TensorFlow</a>.
+
+  - title: Onion Router (Python)
+    url: https://github.com/MichelKrispin/PyOnionRouter
+    entries:
+      - title: A simple onion router written in Python.
+      - title: Implements a custom protocol and makes heavy use of encryption/decryption.
+      - title: Uses <a href='https://cloud.google.com/?hl=en' target="_blank">GoogleCloud</a> and Docker.
+
+  - title: Onion Router (Go)
+    url: https://github.com/MichelKrispin/GoOnionRouter
+    entries:
+      - title: A simple onion router written in Go.
+      - title: Implements a custom protocol and makes heavy use of encryption/decryption.
+      - title: Uses the <a href='https://github.com/gin-gonic/gin' target="_blank">Gin HTTP web framework</a>.
+
+  - title: Cell Wars
+    url: https://github.com/MichelKrispin/CellWars
+    entries:
+      - title: A programmable game where the player wins whose cells are able to outgrow all other cells .
+      - title: Uses <a href='https://www.sfml-dev.org/' target="_blank">SFML</a> for its graphics.
+      - title: Includes a python binding with <a href='https://github.com/pybind/pybind11' target="_blank">pybind11</a>.
+
+  - title: Chess Web
+    url: https://github.com/MichelKrispin/Chess-Web
+    entries:
+      - title: A chess frontend with a <a href='https://flask.palletsprojects.com/en/3.0.x/' target="_blank">Flask</a> backend and <a href='https://react.dev/' target="_blank">React</a> frontend.
+      - title: Based upon an custom incomplete <a href='https://github.com/MichelKrispin/ChessOnline' target="_blank">chess backend</a> with a custom written test framework.
+
+  - title: Space Invaders 8080 emulator
+    url: https://github.com/MichelKrispin/Java-Space-Invaders-Emulator
+    entries:
+      - title: A Space Invaders 8080 emulator.
+      - title: Written in Java.
+
+  - title: Rejection-free simulated annealing
+    url: https://github.com/MichelKrispin/rf-simulated-annealing
+    entries:
+      - title: Quasi and rejection-free simulated annealing implementation.
+      - title: <a href='https://en.wikipedia.org/wiki/Quadratic_unconstrained_binary_optimization' target="_blank">QUBO</a> solver.
+        url:
+      - title: Implemented in Python with numpy.
+      - title: <a href='https://mpi4py.readthedocs.io/en/stable/index.html' target="_blank">MPI</a> support.
+
+  - title: CUDA rejection-free simulated annealing
+    url: https://github.com/MichelKrispin/cuda-rf-simulated-annealing
+    entries:
+      - title: Quasi and rejection-free simulated annealing implementation.
+      - title: Basis for further optimizations.
+
+  - title: Chess
+    url: https://github.com/MichelKrispin/Chess
+    entries:
+      - title: Chess written in C using <a href='https://www.libsdl.org/' target="_blank">SDL2</a>.
+      - title: Fully functional with graphical interface.
