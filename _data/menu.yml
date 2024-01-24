@@ -70,6 +70,13 @@ entries:
       - title: A chess frontend with a <a href='https://flask.palletsprojects.com/en/3.0.x/' target="_blank">Flask</a> backend and <a href='https://react.dev/' target="_blank">React</a> frontend.
       - title: Based upon a custom incomplete <a href='https://github.com/MichelKrispin/ChessOnline' target="_blank">chess backend</a> with a custom written test framework.
 
+  - title: Numerical ODE Visualizer
+    url: https://github.com/MichelKrispin/NumericalODEVisualizer
+    entries:
+      - title: Visualize different numerical ordinary differential equation solver.
+      - title: Dynamic python function loading.
+      - title: Uses <a href=' https://plotly.com/javascript/' target="_blank">Plotly</a> plots in frontend.
+
   - title: Space Invaders 8080 emulator
     url: https://github.com/MichelKrispin/Java-Space-Invaders-Emulator
     entries:
