@@ -34,6 +34,14 @@ entries:
       - title: A chess frontend with a <a href='https://flask.palletsprojects.com/en/3.0.x/' target="_blank">Flask</a> backend and <a href='https://react.dev/' target="_blank">React</a> frontend.
       - title: Based upon a custom incomplete <a href='https://github.com/MichelKrispin/ChessOnline' target="_blank">chess backend</a> with a custom written test framework.
 
+  - title: Dimension Estimation
+    url: https://github.com/MichelKrispin/DimensionEstimation
+    entries:
+      - title: Intrinsic dimension estimation of different data.
+      - title: Based upon <a href='https://dl.acm.org/doi/10.5555/3122009.3208019' target="_blank">Dimension estimation using random connection models</a> by Paulo Serra and Michel Mandjes.
+      - title: Dynamic python data function loading.
+      - title: Uses <a href='https://bokeh.org/' target="_blank">Bokeh</a> plots in its frontend.
+
   - title: Flomathica
     url: https://github.com/MichelKrispin/Flomathica
     entries:
@@ -47,7 +55,7 @@ entries:
     entries:
       - title: Visualize different numerical ordinary differential equation solver.
       - title: Dynamic python function loading.
-      - title: Uses <a href=' https://plotly.com/javascript/' target="_blank">Plotly</a> plots in frontend.
+      - title: Uses <a href='https://plotly.com/javascript/' target="_blank">Plotly</a> plots in its frontend.
 
   - title: Onion Router (Python)
     url: https://github.com/MichelKrispin/PyOnionRouter
