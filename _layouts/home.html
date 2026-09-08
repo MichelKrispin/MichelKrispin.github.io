@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<header>
+  <h1>{{ site.title }}</h1>
+  {%- if site.theme_config.show_description -%}
+  <p>{{ site.description }}</p>
+  {%- endif -%}
+</header>
+
+<section class="project-section">
+  <h2>AI-era projects</h2>
+  <p class="project-note">
+    Projects where AI generated pretty much everything while I just said what to generate.
+  </p>
+
+  {% include menu_item.html collection=site.data.menu.ai_entries %}
+</section>
+
+<hr class="project-divider">
+
+<section class="project-section">
+  <h2>Pre-AI projects</h2>
+  <p class="project-note">
+    Every single project below was done by typing everything (which wasn't copied from stackoverflow) character by character myself.
+  </p>
+
+  {% include menu_item.html collection=site.data.menu.pre_ai_entries %}
+</section>
+
+{{ content }}

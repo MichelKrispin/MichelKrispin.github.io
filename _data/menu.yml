@@ -1,7 +1,25 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
+ai_entries:
+  - title: Cosmic Helpdesk
+    url: https://michelkrispin.github.io/cosmic-helpdesk/
+    entries:
+      - title: 2-4 player game in the spirit of 'Keep talking and nobody explodes' which is completely static and P2P so no data is ever leaving local browsers.
+      - title: In english and german.
+  - title: Chinesisch Lernen
+    url: https://michelkrispin.github.io/chinesisch-lernen/
+    entries:
+      - title: Learning chinese is not easy, but learning how to read/write it is quite tough.
+      - title: This project is designed to help me learn it.
+      - title: (And it is German-Chinese...)
+  - title: Morse Trainer
+    url: https://michelkrispin.github.io/morse-trainer
+    entries:
+      - title: I wanted to learn morse code and this is the best take.
+      - title: Everything is stored in the browser, so deleting site data means deleting the progress.
+
+pre_ai_entries:
   - title: Biometric password
     url: https://github.com/MichelKrispin/BiometricPassword
     entries:
