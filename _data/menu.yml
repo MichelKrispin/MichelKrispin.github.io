@@ -10,8 +10,7 @@ ai_entries:
   - title: Chinesisch Lernen
     url: https://michelkrispin.github.io/chinesisch-lernen/
     entries:
-      - title: Learning chinese is not easy, but learning how to read/write it is quite tough.
-      - title: This project is designed to help me learn it.
+      - title: Learning chinese is not easy, but learning how to read/write it is even harder and this project is designed to help me with that.
       - title: (And it is German-Chinese...)
   - title: Learn sketching
     url: https://michelkrispin.github.io/sketch-course/
@@ -20,7 +19,7 @@ ai_entries:
   - title: Morse Trainer
     url: https://michelkrispin.github.io/morse-trainer
     entries:
-      - title: I wanted to learn morse code and this is the best take.
+      - title: I wanted to learn morse code and this is my take on it.
       - title: Everything is stored in the browser, so deleting site data means deleting the progress.
 
 pre_ai_entries:
