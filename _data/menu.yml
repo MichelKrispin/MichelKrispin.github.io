@@ -13,6 +13,10 @@ ai_entries:
       - title: Learning chinese is not easy, but learning how to read/write it is quite tough.
       - title: This project is designed to help me learn it.
       - title: (And it is German-Chinese...)
+  - title: Learn sketching
+    url: https://michelkrispin.github.io/sketch-course/
+    entries:
+      - title: A practical guide on how to sketch using publicly available sketches.
   - title: Morse Trainer
     url: https://michelkrispin.github.io/morse-trainer
     entries:
